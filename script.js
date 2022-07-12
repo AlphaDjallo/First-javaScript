@@ -2,6 +2,7 @@
 let admin;
 let firstName;
 
-firstName = john;
-
+firstName = "john";
 admin = firstName;
+
+alert(admin)
