@@ -3,3 +3,5 @@ let admin;
 let firstName;
 
 firstName = john;
+
+admin = firstName;
