@@ -1,1 +1,4 @@
-console.log('hello')
+// Exercice 01
+
+let admin;
+let firstName;
